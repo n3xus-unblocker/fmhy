@@ -1,11 +1,10 @@
 ---
 title: Welcome
 layout: home
-description: The largest collection of free stuff on the internet!
-
+description: A cloudflare pages fork of the largest collection of free stuff on the internet aka freemediaheckyeah! (real site at fmhy.net)
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: piracyheckyeah
+  tagline: A cloudflare pages fork of the largest collection of free stuff on the internet aka freemediaheckyeah! (real site at fmhy.net)
   announcement:
     title: May 2025 Updates ☀️
     link: /posts/may-2025
