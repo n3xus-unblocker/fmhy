@@ -6,20 +6,30 @@
 
 # ► Linux Guides
 
-* ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
+* ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)** - Linux Guides
 * ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Wikis / Guides
 * [Debian Wiki](https://wiki.debian.org/) - Debian Wiki / Guides
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
-* [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
-* [Server World](https://www.server-world.info/en/) - Network Server Guides
-* [HowtoForge](https://www.howtoforge.com/) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides for Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
 * [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
+
+***
+
+## ▷ CLI Cheat Sheets
+
+* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
+* [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner)
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+* [CommandlineFU](https://www.commandlinefu.com/)
+* [Bash Academy](https://guide.bash.academy/)
+* [ss64 Bash](https://ss64.com/bash/)
+* [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/)
+* [navi](https://github.com/denisidoro/navi)
 
 ***
 
@@ -51,12 +61,12 @@
 * ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
 * [distro.moe](https://distro.moe/) - Find Random Distros
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
-* [DotShare](http://dotshare.it/) - Distro Config Index
 * [ArchiveOS](https://archiveos.org/)
 * [OS.click](https://os.click/en)
 * [LinuxTracker](https://linuxtracker.org/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)
 * [Pkgs](https://pkgs.org/) - Linux Packages / [Repology](https://repology.org/)
+* [Linux Comparisons](https://eylenburg.github.io/linux_comparison.htm)
 
 ***
 
@@ -74,6 +84,7 @@
 # ► Linux Apps
 
 * ↪️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - Ebook Reader Index
+* 🌐 **[GNOME Shell Extensions](https://extensions.gnome.org/)**
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers / [GitHub](https://github.com/bottlesdevs) / [Discord](https://discord.com/invite/wF4JAdYrTR)
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
@@ -81,17 +92,18 @@
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers
 * ⭐ **[FreeRDP](https://www.freerdp.com/)** - Remote Desktop Client / [GitHub](https://github.com/FreeRDP/FreeRDP)
+* ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
 * [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux / [GitHub](https://github.com/darlinghq/darling) / [Discord](https://discord.com/invite/XRD3mQA)
 * [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker / [GitHub](https://github.com/dscharrer/innoextract)
 * [web2app](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://autokey.github.io/index.html) - Linux Automation Utility / [GitHub](https://github.com/autokey/autokey)
 * [ProtonTricks](https://github.com/Matoking/protontricks) - Run Winetricks Commands for Steam Play / Proton Games
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
-* [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
 * [taskbook](https://github.com/klaudiosinani/taskbook) or [nb](https://xwmx.github.io/nb) / [GitHub](https://github.com/xwmx/nb) - Note Apps
 * [Notepadqq](https://github.com/notepadqq/notepadqq), [Featherpad](https://github.com/tsujan/FeatherPad) or [gedit](https://gedit-text-editor.org/) - Text Editors
+* [Kate Editor](https://kate-editor.org/) - Source Code Editor
+* [Geany](https://www.geany.org/) - IDE
 * [TextPieces](https://gitlab.com/liferooter/textpieces) - Quick Text Transformations
 * [Durdraw](https://durdraw.org/) - ASCII Editor
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
@@ -103,17 +115,10 @@
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [libimobiledevice](https://libimobiledevice.org) - Communicate with iOS Devices
-* [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
-* [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
-* [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
-* [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
-* [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 * [Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - PowerToys for Linux
 * [Railway](https://flathub.org/apps/de.schmidhuberj.DieBahn) - Travel Info Manager
 * [Wike](https://github.com/hugolabe/Wike) - Wikipedia App
 * [Komikku](https://valos.gitlab.io/Komikku/), [Suwayomi-VaadinUI](https://github.com/Suwayomi/Suwayomi-VaadinUI) or [Manga Reader](https://flathub.org/apps/com.georgefb.mangareader) - Manga Readers
-* [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
 * [Mako](https://github.com/emersion/mako) or [dunst](https://dunst-project.org/) / [GitHub](https://github.com/dunst-project/dunst) - Customizable Notification Daemon
 * [Eloquent](https://flathub.org/apps/re.sonny.Eloquent/) or [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check Apps
 * [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
@@ -125,7 +130,7 @@
 * 🌐 **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)** or **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)** - Linux Software / Site Index
 * 🌐 **[Awesome Linux Software](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Linux Software
 * 🌐 **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE Software
-* 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
+* 🌐 **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME Software
 * 🌐 **[FOSS Software Packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - FOSS Software Packages Index
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
@@ -134,7 +139,7 @@
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
 * [Linux FOSS Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png) - FOSS Software List
 * [Rim's Linux Wiki](https://rlw.pages.dev/), [2](https://rimswiki.xyz/) - Linux Software / Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
-* [KDE Applications](https://apps.kde.org/) - KDE Apps
+* [KDE Applications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE Apps & Themes
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
@@ -148,20 +153,18 @@
 
 ## ▷ Linux System
 
-* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
-* [Desktop Environment Comparison](https://eylenburg.github.io/linux_comparison.htm)
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
 * [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/microsoft/SysmonForLinux) - Monitor / Log System Activity
+* [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin)
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
-* [picom](https://github.com/yshui/picom) - Compositor for standalone X11 Window Managers
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
 * [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
@@ -169,15 +172,13 @@
 * [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
 * [winapps](https://github.com/Fmstrat/winapps) - Run Windows Apps on Linux
 * [Teleport](https://teleportsite.pages.dev/) - Windows App Compatibility Analyzer
-* [NetBoot](https://netboot.xyz/) - Boot Linux Distros / Network Boot
+* [NetBoot](https://netboot.xyz/) - iPXE Network Boot
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://docs.zfsbootmenu.org/) - ZFS Bootloader
 * [Waycheck](https://gitlab.freedesktop.org/serebit/waycheck) - Lists Protocols Implemented by a Wayland Compositor
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/linuxboot/heads)
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware
 * [GParted](https://gparted.org/) - Partition Manager
-* [Archinstall](https://github.com/archlinux/archinstall) - Arch Linux Installers
-* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) / [GitHub](https://github.com/LibreELEC/LibreELEC.tv) - Kodi-Based Operating System
 * [DistroSea](https://distrosea.com/) - Cloud Virtual Machine / Allows Browsers
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
@@ -188,7 +189,6 @@
 * [KernelNewbies](https://kernelnewbies.org/) - Kernel Developer Guides
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [bt-dualboot](https://github.com/x2es/bt-dualboot) - Dual-Boot Bluetooth Sync Tool
-* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to systemd
 * [greetd](https://sr.ht/~kennylevinsen/greetd/) - Login Manager Daemon
@@ -203,7 +203,6 @@
 * [MultiPlex](https://github.com/pojntfx/multiplex) - Torrent Watch Party / Use VPN
 * [MPV Shim](https://github.com/iwalton3/plex-mpv-shim) - Cast Plex to MPV
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Spectacle](https://apps.kde.org/spectacle/) - Screen Recorder / Clipping
 * [AV Linux](https://www.bandshed.net/avlinux/) - Video / Audio Editor
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling
 * [4KTUBE](https://github.com/rishabh3354/4KTUBE) or [Video Downloader](https://github.com/Unrud/video-downloader) - Video Downloaders
@@ -219,7 +218,8 @@
 ## ▷ Linux Audio
 
 * 🌐 **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - Live Audio Resources
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**, [Spicetify](https://spicetify.app/), [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium) - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify Adblockers
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://pastebin.com/gAbebbbJ)
 * ⭐ **[SongRec](https://github.com/marin-m/SongRec)** or [Mousai](https://github.com/SeaDve/Mousai) - Song Identifiers
 * [puddletag](https://docs.puddletag.net/) - Metadata Organizer / [GitHub](https://github.com/puddletag/puddletag)
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
@@ -237,7 +237,7 @@
 * [MusicPod](https://github.com/ubuntu-flutter-community/musicpod) - Podcast / Radio Player
 * [Shortwave](https://flathub.org/apps/de.haeckerfelix.Shortwave) or [QMPlay2](https://github.com/zaps166/QMPlay2) - Radio Players
 * [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
-* [Pipewire Multimedia API](https://pipewire.org/) - Improved Video / Audio Handling / [Plugins](https://github.com/wwmm/easyeffects) or 
+* [Pipewire Multimedia API](https://pipewire.org/) - Improved Video / Audio Handling / [Plugins](https://github.com/wwmm/easyeffects)
 * [Werman](https://github.com/werman/noise-suppression-for-voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Calf Studio Gear](https://calf-studio-gear.org/) - Audio Production Plugins
@@ -252,7 +252,6 @@
 ## ▷ Linux Image
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
@@ -261,6 +260,17 @@
 * [Trimage](https://trimage.org/) or [Curtail](https://github.com/Huluti/Curtail) - Image Compressor
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
+
+***
+
+## ▷ Productivity / Calendars
+
+* [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
+* [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
+* [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
+* [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
+* [dijo](https://github.com/oppiliappan/dijo) - Activity Tracker
 
 ***
 
@@ -275,7 +285,7 @@
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
-* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
+* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [Native Linux Games](https://rentry.co/FMHYBase64#native-linux-games) - Linux Games
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
@@ -293,6 +303,7 @@
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games Launcher / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
+* [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
@@ -325,12 +336,11 @@
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
 * [Tracee](https://aquasecurity.github.io/tracee/latest) - Runtime Security and Forensics
-* [MOFO Linux](https://mofolinux.com/), [Tails](https://tails.net/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [DSVPN](https://github.com/jedisct1/dsvpn) - Self-Hosted VPN
 * [wireguird](https://github.com/UnnoTed/wireguird) - WireGuard GTK GUI
-* [Netbird](https://github.com/netbirdio/netbird) or [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
+* [vnStat](https://github.com/vergoh/vnstat) - Network Monitors
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [USBGuard](https://github.com/USBGuard/usbguard) - Implement USB Device Authorization Policies
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
@@ -345,48 +355,34 @@
 
 ## ▷ Linux Internet
 
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [Fragments](https://apps.gnome.org/en/Fragments/), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [Fragments](https://apps.gnome.org/Fragments/), [BitFlu](https://bitflu.workaround.ch/), [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * ⭐ **[Soulseek](https://www.slsknet.org)** - File Sharing App
 * ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - Create WiFi Hotspots
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend
 * rTorrent Tools - [Extended](http://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/) / [GitHub](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html)
 * [BTFS](https://github.com/johang/btfs) - Bittorrent Filesystem
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser
 * [browsh](https://www.brow.sh/) - Text-Based Browser
 * [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/) or [dodo](https://github.com/akissinger/dodo) - Email Clients
-* [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
 * [Akregator](https://apps.kde.org/akregator/), [NewsBoat](https://newsboat.org/), [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Photon](https://git.sr.ht/~ghost08/photon) or [gorss](https://github.com/Lallassu/gorss) - RSS Readers
 * [Seahorse](https://gitlab.gnome.org/GNOME/seahorse) - GNOME Password Manager
 * [gopass](https://www.gopass.pw/) - CLI Password Manager
 * [KGet](https://apps.kde.org/kget/), [Varia](https://github.com/giantpinkrobots/varia) or [GabutDM](https://github.com/gabutakut/gabutdm) - Download Managers
-* [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
+* [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount Google Drive
 * [maestral](https://maestral.app/) - Dropbox Client
-* [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [apt-fast](https://github.com/ilikenwf/apt-fast) - APT Download Accelerator
 * [Nala](https://gitlab.com/volian/nala) - APT Frontend
 * [aMule](https://www.amule.org/) - eMule-like P2P Client
 * [Linux Router](https://github.com/garywill/linux-router) - Set Linux as Router
-* [1Panel](https://1panel.pro/) - Linux Server Management Tool / [GitHub](https://github.com/1Panel-dev/1Panel)
-* [Proxmox](https://www.proxmox.com/en/) - Self-Hosted Server Tools
-* [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [Netcat](https://rentry.co/Netcat) - Networking Tool
-* [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
-* [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool
 * [iperf](https://github.com/esnet/iperf) - Network Bandwidth Test
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption TUI
-* [Knapsu](https://knapsu.eu/plex/) - Media Server
-* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
-* [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
-* [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
-* [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
-* [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
-* [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Collaboration Platform
+* [mx moment](https://mx-moment.xyz/) - Encrypted Chat Client
 * [Adium](https://adium.im/), [Polari](https://apps.gnome.org/Polari/) / [GitLab](https://gitlab.gnome.org/GNOME/polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [Dino](https://dino.im/) - XMPP Client
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
@@ -399,13 +395,38 @@
 
 ***
 
+## ▷ Server / Selfhosting
+
+* 🌐 **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8) or [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - Self-Hosted Software Index / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 🌐 **[Selfh.st](https://selfh.st/apps/)** - Self-Hosted Software Index
+* [Self Managed Life](https://wiki.futo.org/) - FOSS / Self-Hosting Guide / [Video](https://youtu.be/Et5PPMYuOc8), [2](https://youtu.be/3fW9TV1WQi8)
+* [Server World](https://www.server-world.info/en/) - Network Server Guides
+* [HowtoForge](https://www.howtoforge.com/) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
+* [1Panel](https://1panel.pro/) - Linux Server Management Tool / [GitHub](https://github.com/1Panel-dev/1Panel)
+* [Proxmox](https://www.proxmox.com/en/) - Self-Hosted Server Tools
+* [EasyPanel](https://easypanel.io/) - Server Control Panel
+* [Free Cloud Linux Server](https://rentry.co/FMHYBase64#free-cloud-linux-server) - Free Cloud Server Guide
+* [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
+* [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) or [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - Automated Docker Media Server Setups
+* [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
+* [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
+* [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
+* [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
+* [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
+* [ABS FLutter](https://github.com/Vito0912/abs_flutter) - Self-Hosted Audiobook Server
+* [GNU Social](https://gnusocial.network/) - Self-Hosted Social Networking Platform
+* [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers
+
+***
+
 ## ▷ File Tools
 
 * 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail) or [Sharing](https://github.com/parvardegr/sharing) - File Sync / Transfer
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[lf](https://github.com/gokcehan/lf)**, [ranger](https://ranger.fm), [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [superfile](https://github.com/yorukot/superfile), [Joshuto](https://github.com/kamiyaa/joshuto), [Filelight](https://apps.kde.org/en-gb/filelight/), [dut](https://codeberg.org/201984/dut), [gdu](https://github.com/dundee/gdu) or [NCDU](https://dev.yorhel.nl/ncdu) - Terminal File Managers / Disk Usage Analyzers
 * [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [gocatcli](https://github.com/deadc0de6/gocatcli/), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://ugrep.com) / [GitHub](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
-* [Dolphin](https://userbase.kde.org/Dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
+* [Dolphin](https://userbase.kde.org/Dolphin) / [Source](https://invent.kde.org/system/dolphin) or [SpaceFM](https://ignorantguru.github.io/spacefm/) - File Managers
 * [Collector](https://mijorus.it/projects/collector/) - File Drag & Drop
 * [Bash Upload](https://bashupload.com/) - Bash File Upload 50GB / 3 days
 * [z](https://github.com/rupa/z) - Track Most Used Directories
@@ -439,80 +460,88 @@
 * 🌐 **[Awesome Shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://tldr.sh/) / [GitHub](https://github.com/tldr-pages/tldr) or [AltBox](https://altbox.dev/) - Linux Shell Resources
 * 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** or [TerminalTrove](https://terminaltrove.com/) - List of TUIs
 * 🌐 **[The Terminal Directory](https://termui.sh/)** - Terminal Emulators
-* ↪️ **[Linux Shell Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)**
-* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminals Emulators
-* ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)** or [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI Terminal Chatbot / GPT
+* ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/) or [Nushell](https://www.nushell.sh/) - Command Line Shells
+* ⭐ **zsh Tools** - [Plugins](https://github.com/unixorn/awesome-zsh-plugins) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
+* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Linux Terminal Emulators
+* ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**, [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [ManKier](https://www.mankier.com/) - Command-Line Lessons
 * [Liquidprompt](https://github.com/liquidprompt/liquidprompt) - Bash / Zsh Prompt
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [ShellCheck](https://www.shellcheck.net/) - Shell Script Bug Check
-* [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
-* [Command Line Guide](https://github.com/jlevy/the-art-of-command-line), [ManKier](https://www.mankier.com/) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
+* [⁠ShellScript](https://www.shellscript.sh/) or [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorials
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
-* [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands via Right Menu / Gnome Extension
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [bash-it](https://github.com/Bash-it/bash-it) or [Bashly](https://bashly.dev/) - Bash Frameworks
 * [zx](https://google.github.io/zx/) or [dax](https://github.com/dsherret/dax) - Write Complex Scripts
 * [Basher](https://www.basher.it/) or [bpkg](https://bpkg.sh/) - Bash Package Manager
-* [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
-* [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extensions
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
-* [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
-* [eza](https://eza.rocks/) - Modern ls replacement
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
-* [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
 * [Zellij](https://zellij.dev/) - Terminal Workspace
 * [asciinema](https://asciinema.org/) - Terminal Recorder
-* [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/skim-rs/skim) - Fuzzy Finders
 * [atuin](https://atuin.sh/) - Shell History Management / [GitHub](https://github.com/atuinsh/atuin)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Generate Bonsai Trees in Terminal
 * [pipes.sh](https://pipeseroni.github.io/) or [pipes-rs](https://github.com/lhvy/pipes-rs) - Animated Pipes in Terminal
 
 ***
 
-## ▷ Wayland
+# ► Ricing / Customization
 
+* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** or **[⁠Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)** - Linux Ricing Resources
+* ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
+* ⭐ **[/r/unixporn](https://unixporn.github.io/)** - Ricing Community / [Subreddit](https://reddit.com/r/unixporn)
+
+***
+
+## ▷ Desktop Environment
+
+* 🌐 **[Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)**
+* [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extension Manager
+* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
+* [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
+* [Guillotine](https://gitlab.com/ente76/guillotine/) - Execute Commands from a Customizable Menu / GNOME Extension
+* [Polonium](https://zeroxoneafour.github.io/polonium/) - KDE6 Tiling Manager Extension / [GitHub](https://github.com/zeroxoneafour/polonium)
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
+
+***
+
+## ▷ Window Managers
+
+* 🌐 **[⁠Awesome Wayland](https://github.com/rcalixte/awesome-wayland)** - Wayland Resources
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
 * 🌐 **[We Are Wayland Now](https://wearewaylandnow.com/)** - Wayland Ecosystem Components / [GitHub](https://github.com/gianklug/wearewaylandnow)
-* ⭐ **[Hyprland](https://hyprland.org/)** - Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://end-4.github.io/dots-hyprland-wiki/en/)
+* ⭐ **[i3wm](https://i3wm.org)**, [BSPWM](https://github.com/baskerville/bspwm) or [herbstluftwm](https://herbstluftwm.org) - Tiling Window Managers
+* ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/) or [dwm](https://dwm.suckless.org) - Dynamic Window Managers
+* ⭐ **[Hyprland](https://hyprland.org/)** - Wayland Compositor [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://end-4.github.io/dots-hyprland-wiki/en/)
+* ⭐ **[niri](https://github.com/YaLTeR/niri)** - Wayland Compositor
 * ⭐ **[Sway](https://github.com/swaywm/sway)** or [SwayFx](https://github.com/WillPower3309/swayfx) - i3-compatible Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
 * [river](https://github.com/riverwm/river/) - Wayland Compositor
 * [LabWC](https://github.com/labwc/labwc) - Wayland Compositor
 * [wayfire](https://github.com/WayfireWM/wayfire/) - Wayland Compositor
-* [niri](https://github.com/YaLTeR/niri) - Wayland Compositor
+* [picom](https://github.com/yshui/picom) - Compositor for Standalone X11 Window Managers / [Docs](https://picom.app/) / [GitHub](https://github.com/yshui/picom)
+* [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 
-***
-
-# ► Ricing / Customization
-
-* 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)** - Linux Ricing Resources
-* ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
-* ⭐ **[r/unixporn](https://reddit.com/r/unixporn) / [Discord](https://discord.gg/unixporn)** - Ricing Community
 
 ***
 
 ## ▷ Linux Themes
 
 * 🌐 **[xfce-look](https://www.xfce-look.org/)** - XFCE Linux Themes
-* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - Gnome Themes
-* [Pling](https://www.pling.com/s/All-Linux/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
+* 🌐 **[Gnome-Look](https://www.gnome-look.org/)** - GNOME Themes
 * [Hellwal](https://github.com/danihek/hellwal) - Color Palette Generator for Ricing
 * [Themix](https://github.com/themix-project/themix-gui) - Linux Themes / GUI
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
+* [⁠nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 Settings Editor
 * [Arc](https://github.com/jnsh/arc-theme) - Transparent Linux Theme
 * [Ant](https://github.com/EliverLara/Ant) - Light Linux Theme
-* [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
-* [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [XScreenSaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [Fondo](https://github.com/calo001/fondo), [varietywalls](https://github.com/varietywalls/variety), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
+* [varietywalls](https://github.com/varietywalls/variety) or [HydraPaper](https://hydrapaper.gabmus.org/) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
-* [wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - Wallpaper Engine KDE Plugin
+* [⁠tint](https://github.com/ashish0kumar/tint) - Convert Wallpapers to Match Color Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
-* [Gorgeous GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - GRUB Themes
-* [Iconic](https://github.com/youpie/Iconic) - Add Folder Icons
 
 ***
 
@@ -524,7 +553,6 @@
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)** - Screenshot Tools
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader
 * [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) - Mastodon Client / [GitHub](https://github.com/Dimillian/IceCubesApp)
 * [Sky.app](https://github.com/jcsalterego/Sky.app) - Bluesky Client
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions macOS
@@ -551,7 +579,7 @@
 * [Agenda](https://agenda.com/) - Mac Notes Organizer / [Forum](https://agenda.community/)
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
-* [Microsoft Office](https://rentry.co/FMHYBase64#macos-office) - Microsoft Offic for macOS
+* [Microsoft Office](https://rentry.co/FMHYBase64#macos-office) - Microsoft Office for macOS
 * [Hammerspoon](https://www.hammerspoon.org/) or [Bunch](https://bunchapp.co/) - Desktop Automation
 * [MacScripter](https://www.macscripter.net/) - Automation Forum
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
@@ -565,14 +593,14 @@
 * [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [AnimeBox](https://www.animebox.es/) - Booru Client
-* [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL/Anilist/Kitsu Lists
+* [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL / Anilist / Kitsu Lists
 * [Magit!](https://magit.vc/) - Git Text-Based UI
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
 * [Does It Arm?](https://doesitarm.com/) - M2 / M3 App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
-* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) - Reddit Clients
 * [Sink It](https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635) - Reddit Enhancement Extension
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [macOSicons](https://macosicons.com/) - Icons
@@ -591,6 +619,8 @@
 * [Macintosh Garden](https://macintoshgarden.org/)
 * [MacBed](https://www.macbed.com/)
 * [nMac](https://nmac.to/)
+* [Mac App Store](https://macappstre.com/)
+* [Antibiotic's](https://t.me/AntibioticsChannel)
 * [Haxmac](https://haxmac.cc/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
@@ -598,6 +628,7 @@
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
+* [⁠MacintoshRepository](https://www.macintoshrepository.org/) - Oldschool Software
 * [ThriftMac](https://thriftmac.com/) - Freeware
 * [Sindre Sorhus](https://sindresorhus.com/apps/free) - Freeware
 * [Latest](https://github.com/mangerlahn/latest) - Software Updater
@@ -617,6 +648,7 @@
 ## ▷ Mac Audio
 
 * ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)** or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
+* ⭐ **[Spicetify](https://spicetify.app/)** - Spotify Themes & Plugins / [Addons](https://github.com/rxri/spicetify-extensions), [2](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Note](https://pastebin.com/gAbebbbJ)
 * [foobar2000](https://www.foobar2000.org/mac) or [VOX Mac Music Player](https://vox.rocks/mac-music-player) - Audio Players
 * [Silicio](https://apps.apple.com/us/app/silicio-mini-player/id933627574) - Audio Mini Player
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
@@ -651,6 +683,8 @@
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - Steam Multiplayer Client Emulator
 * [SCNLOG](https://scnlog.me/) - Mac Games
+* [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games
+* [⁠MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) or [Mythic](https://getmythic.app/) / [Discord](https://discord.gg/58NZ7fFqPy) - Epic Games Launchers
 * [Prism43](https://github.com/DomHeadroom/Prism43) - Prism Launcher / Unlocker
@@ -682,6 +716,7 @@
 * [SuspiciousPackage](https://www.mothersruin.com/software/SuspiciousPackage/get.html) - Analyze PKG Files
 * [Santa](https://github.com/northpolesec/santa) - Binary Authorization System
 * [DHS](https://objective-see.org/products/dhs.html) - Dylib Hijack Scanner
+* [GPG Suite](https://gpgtools.org/) - Encrypt & Sign Data / Communications
 * [What's Your Sign?](https://objective-see.org/products/whatsyoursign.html) - View File Cryptographic Signatures
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
 * [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address
@@ -689,7 +724,7 @@
 * [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
-* [Damus](https://damus.io/) - Encrypted Messaging App
+* [Status](https://status.app/) - Encrypted Messaging Client
 
 ***
 
@@ -715,10 +750,9 @@
 * [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
-* [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers
+* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstallers / [GitHub](https://github.com/alienator88/Pearcleaner)
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
-* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [LinearMouse](https://linearmouse.app/) or [MacMouseFix](https://macmousefix.com/) - Mouse Remapping
@@ -733,7 +767,7 @@
 * [Macs Fan Control](https://github.com/crystalidea/macs-fan-control) - Fan Controller
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
-* [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI / macOS Only
+* [Sentinel](https://github.com/alienator88/Sentinel) - SwiftUI Gatekeeper Config GUI
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
@@ -755,12 +789,13 @@
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
+* [Magic Trace](https://github.com/janestreet/magic-trace) - Performance Analysis with Intel PT
 
 ***
 
 ## ▷ File Tools
 
-* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)**, [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
+* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
@@ -769,7 +804,9 @@
 * [JDownloader](https://jdownloader.org/jdownloader2) - File Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [Progressive Downloader](https://macpsd.net/) - File Download Manager
+* [eza](https://eza.rocks/) - Modern `ls` Replacement
 * [Transnomino](https://www.transnomino.com/) or [Riffo](https://riffo.ai/rename) - Bulk File / Folder Renaming
+* [fzf](https://github.com/junegunn/fzf) or [skim](https://github.com/skim-rs/skim) - Fuzzy Finders
 * [FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-Platform AirDrop / [Guide](https://redd.it/vthltc)
 
 ***
@@ -779,10 +816,11 @@
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
 * 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
+* [⁠UnitedBSD](https://www.unitedbsd.com/) - BSD Forum / Community
 * [FreeBSD Wiki](https://wiki.freebsd.org/) - FreeBSD Wiki / Guides / [Docs](https://docs.freebsd.org/en/books/handbook/)
 * [Pkgs](https://pkgs.org/) - Unix Packages / [Repology](https://repology.org/)
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Unix Shells
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [pass](https://www.passwordstore.org/) - Unix Password Manager
-* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 libraries + Programs / [GitHub](https://github.com/9fans/plan9port)
+* [Plan9Port](https://9fans.github.io/plan9port/) - Unix Port for Plan9 Libraries + Programs / [GitHub](https://github.com/9fans/plan9port)

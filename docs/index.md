@@ -6,8 +6,8 @@ hero:
   name: piracyheckyeah
   tagline: A cloudflare pages fork of the largest collection of free stuff on the internet aka freemediaheckyeah! (real site at fmhy.net)
   announcement:
-    title: May 2025 Updates ☀️
-    link: /posts/may-2025
+    title: July 2025 Updates ☀️
+    link: /posts/july-2025
   image:
     src: /test.png
     alt: FMHY Icon
